@@ -2,7 +2,9 @@
 
 
 //
+
 (Basic Python Projects)
+
 //
 
 1. Chess Board    https://github.com/sagnik765/Chess-Board
@@ -16,3 +18,15 @@
 5. Weather Forecaster   https://github.com/sagnik765/Weather-Forecaster
 
 6. Hangman Game   https://github.com/sagnik765/Hangman-Game
+
+//
+
+(HTML+CSS+Javascript)
+
+//
+
+1. Digital Clock     https://github.com/sagnik765/Digital-Clock 
+ 
+2. Calculator     https://github.com/sagnik765/Calculator
+
+2. 
