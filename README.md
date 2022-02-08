@@ -25,8 +25,8 @@
 
 //
 
-1. Digital Clock     https://github.com/sagnik765/Digital-Clock 
- 
-2. Calculator     https://github.com/sagnik765/Calculator
+1. To-do List     https://github.com/sagnik765/To-do-List/tree/main
 
-3. To-do List
+2. Digital Clock     https://github.com/sagnik765/Digital-Clock 
+ 
+3. Calculator     https://github.com/sagnik765/Calculator
